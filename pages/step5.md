@@ -1,16 +1,18 @@
-# 5. Acquista di seconda mano 🛍️♻️
+# 5. Consuma meno carne e cibi ad alto impatto ambientale 🍽️
 
-Il mercato dell’usato è un’ottima alternativa all’acquisto di nuovi prodotti, permettendo di ridurre gli sprechi e l’impatto ambientale della produzione. Acquistare di seconda mano prolunga la vita degli oggetti e previene che finiscano nelle discariche. 🌱
+La produzione di carne è una delle principali cause di inquinamento ambientale. Contribuisce in modo significativo alle emissioni di gas serra, alla deforestazione e all'inquinamento delle acque. Ridurre il consumo di carne e di cibi ad alto impatto è un passo importante per preservare il nostro pianeta. 🌍
 
-Ecco perché e come iniziare:
+Ecco alcuni suggerimenti per iniziare:
 
-- Cerca **negozi dell’usato** nella tua zona: puoi trovare abbigliamento, mobili e oggetti unici a prezzi contenuti.
-- Usa **app e piattaforme online** per acquistare o scambiare articoli di seconda mano, come abiti, elettrodomestici o libri.
-- Partecipa a **mercatini dell’usato** o eventi di scambio nella tua comunità.
-- Valuta l’acquisto di prodotti ricondizionati, come smartphone e computer.
-- Dona gli oggetti che non usi più invece di buttarli via: qualcun altro potrebbe trovarli utili!
+- **Sostituisci la carne con alternative vegetali**: prova legumi, tofu, tempeh, seitan e piatti a base di cereali, che hanno un impatto ambientale inferiore.
+- **Prova una giornata senza carne alla settimana**: impegnati a ridurre il consumo di carne, ad esempio con un "lunedì senza carne".
+- **Mangia più frutta e verdura**: scegli prodotti freschi, locali e stagionali per ridurre l’impronta ecologica.
+- **Acquista cibi biologici e a km zero**: supporta l’agricoltura sostenibile e riduci il trasporto di cibi a lunga distanza.
+- **Riduci i cibi industriali e confezionati**: scegli alimenti freschi e non lavorati, che hanno un minore impatto sulla natura.
 
-Secondo la Ellen MacArthur Foundation, un’economia circolare potrebbe ridurre le emissioni globali di CO2 del 39% entro il 2030. [Fonte 5]
+![Cibi sostenibili](../images/step5/cibiSostenibili.webp)
 
-Acquistare di seconda mano non è solo un modo per risparmiare, ma anche per fare una scelta consapevole a beneficio del pianeta! 🌍
+Ogni volta che riduci il consumo di carne e scegli cibi a basso impatto, contribuisci a ridurre le emissioni di CO2 e proteggere gli ecosistemi naturali. 🌱
+
+Ricorda: fare scelte alimentari più consapevoli è un piccolo cambiamento che può fare una grande differenza per il futuro del nostro pianeta!
 

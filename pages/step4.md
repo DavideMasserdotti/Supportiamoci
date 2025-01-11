@@ -10,7 +10,7 @@ Ecco perché e come iniziare:
 - Valuta l’acquisto di prodotti ricondizionati, come smartphone e computer.
 - Dona gli oggetti che non usi più invece di buttarli via: qualcun altro potrebbe trovarli utili!
 
-![Acquista di seconda mano](../images/step%204/acquistiSecondaMano.webp)
+![Acquista di seconda mano](../images/step4/acquistiSecondaMano.webp)
 
 Secondo la Ellen MacArthur Foundation, un’economia circolare potrebbe ridurre le emissioni globali di CO2 del 39% entro il 2030. [Fonte 5]
 
