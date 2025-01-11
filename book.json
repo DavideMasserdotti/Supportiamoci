@@ -1,0 +1,15 @@
+{
+    "title": "Il Libro Verde dell'Ecologia",
+    "description": "Una guida interattiva per comprendere l'ecologia.",
+    "author": "Comunità per la Sostenibilità",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": ["mathjax"],
+    "pluginsConfig": {
+        "mathjax": {
+            "extensions": ["tex2jax.js"],
+            "jax": ["input/TeX", "output/HTML-CSS"]
+        }
+    }
+}
