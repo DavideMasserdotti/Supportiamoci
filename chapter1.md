@@ -3,6 +3,8 @@
 ### L'essenza dell'ecologia
 L'ecologia studia come gli organismi interagiscono con l'ambiente e tra di loro.
 
+provo a modificare
+
 > **"La natura non è un posto da visitare. È casa nostra."**  
 > – Gary Snyder
 
