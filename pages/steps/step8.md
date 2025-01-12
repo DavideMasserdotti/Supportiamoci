@@ -16,6 +16,6 @@ Gli alberi sono essenziali per la salute del nostro pianeta. Non solo migliorano
 
 - **Condividi il messaggio**: **Educa** amici e familiari sull’importanza di proteggere gli alberi e ridurre l’impatto ambientale. Parla dei benefici delle foreste, della riforestazione e delle scelte sostenibili che possiamo fare ogni giorno. Organizzare eventi di sensibilizzazione o partecipare a iniziative locali, come giornate ecologiche o pulizie di parchi, è un altro modo per ispirare gli altri a prendersi cura del nostro pianeta.
 
-![Proteggi la natura](../images/step8/proteggiLaNatura.webp)
+![Proteggi la natura](.../images/step8/proteggiLaNatura.webp)
 
 Ogni azione conta, anche la più piccola: piantare alberi, ridurre la deforestazione, e proteggere la natura sono essenziali per un futuro più sostenibile! 🌱 Piantare un albero oggi significa piantare un futuro più verde per le prossime generazioni. Unisciti alla causa: insieme possiamo fare la differenza e contribuire a preservare la bellezza del nostro pianeta per gli anni a venire. 🌳
