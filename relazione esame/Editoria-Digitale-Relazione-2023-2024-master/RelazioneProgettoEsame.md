@@ -74,8 +74,11 @@ I canali di distribuzione scelti sono i social media. I formati selezionati sono
 
 L'identità visiva è stata curata utilizzando DALL-E per generare immagini e loghi coerenti con il tema della sostenibilità. Lo stile grafico, tipografico e di layout è stato definito tramite la dashboard di GitBook, privilegiando tonalità di verde per richiamare il tema ambientale.
 
-La fruibilità del prodotto è garantita dalla sua facilità d'uso, fondamentale per catturare l'attenzione di un pubblico giovane e abituato a interagire rapidamente con i contenuti digitali.
+In questo settore non esistono classi di documento standard de iure, ma de facto, poiché i social sono fortemente legati a Internet e al mondo Web, l'uso di tecnologie di questo tipo facilita la fruizione e la distribuzione dei contenuti.
 
+Creare prodotti innovativi è essenziale per distinguersi dalla massa, ma nel caso dei social network, la velocità di fruizione è fondamentale. Sarebbe sconsigliato utilizzare tecnologie che richiedano applicazioni di terze parti per accedere ai contenuti o che non siano completamente compatibili con i dispositivi mobili. Il lettore di riferimento, in questo caso, è fugace: è necessario un prodotto che possa essere facilmente consumato tramite le tecnologie che il pubblico è abituato a usare nella vita quotidiana.
+
+Proprio per questo motivo, e considerando il target di riferimento, ovvero ragazzi dai 18 ai 25 anni, il prodotto sarà informale. La stesura del contenuto si adatterà alle caratteristiche di questo pubblico, risultando giovane ma comunque professionale e utile.
 ## Processo di Produzione
 
 ### Acquisizione dei contenuti
