@@ -22,7 +22,7 @@ Il modo in cui ci spostiamo ha un grande impatto sull'ambiente. I trasporti rapp
 
 - **Rispetta la natura durante i viaggi**: Quando visiti parchi naturali o destinazioni turistiche, segui i principi di "lasciare solo impronte". Non abbandonare rifiuti, rispetta la fauna locale e non danneggiare l’ambiente.
 
-![Viaggia sostenibile!](../images/step6/viaggiaSostenibile.webp)
+![Viaggia sostenibile!](../images/step11/viaggiaSostenibile.webp)
 
 ### Perché è importante?
 
