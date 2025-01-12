@@ -8,7 +8,8 @@ tags:
   - plastica
   - ambiente
   - guida pratica
-cover: "../images/step1/oggettiSostenibili.webp"
+image: "../images/step1/oggettiSostenibili.webp"
+cover: "../images/cover/cover.jpeg"
 link: "https://www.greenpeace.org/italy/come-puoi-aiutare/plastica/"
 ---
 # 1. Riduci il consumo di plastica monouso 🛍️
