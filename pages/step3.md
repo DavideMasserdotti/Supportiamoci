@@ -22,7 +22,7 @@ L'acqua è una risorsa essenziale per la vita, ma anche incredibilmente limitata
 
 - **Evita l'acqua in bottiglia**: Produzione e trasporto di acqua imbottigliata richiedono quantità enormi di risorse, inclusa l'acqua stessa. Usa una borraccia riutilizzabile e preferisci l'acqua del rubinetto, se potabile.
 
-![Risparmia acqua](../images/step3/risparmiaAcqua.webp)
+![Risparmia acqua](../images/step3/riduciAcqua.webp)
 
 ### Perché è importante?
 
