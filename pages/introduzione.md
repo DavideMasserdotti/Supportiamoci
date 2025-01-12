@@ -3,6 +3,8 @@
 Il cambiamento climatico è il problema più grande che il nostro pianeta sta affrontando. Negli ultimi anni, le temperature globali sono aumentate, gli ecosistemi sono in pericolo e gli eventi climatici estremi come uragani, incendi e inondazioni sono diventati sempre più frequenti. 😟  
 
 {% embed url="https://www.youtube.com/watch?v=G4H1N_yXBiA&ab_channel=NationalGeographic" %}
+  
+*Video: "What is climate change?" di National Geographic. Utilizzato a scopo educativo secondo il principio di fair use. Tutti i diritti appartengono al creatore originale.*
 
 
 Secondo il **Rapporto IPCC**, la temperatura media globale è già salita di circa **1,1°C** rispetto ai livelli preindustriali, avvicinandosi pericolosamente al limite di 1,5°C fissato dall'Accordo di Parigi. 💔  
