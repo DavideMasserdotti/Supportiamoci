@@ -9,7 +9,7 @@ tags:
   - azioni per l'ambiente
   - futuro sostenibile
 image: "../images/step1/cambiamentoClimatico.webp"
-cover: "../images/cover/cover2.webp"
+cover: "../images/cover/cover.webp"
 links:
   - "https://www.ipcc.ch"
   - "https://www.globalcarbonproject.org"
