@@ -9,6 +9,7 @@ tags:
   - cambiamento climatico
   - sostenibilità
   - ambiente
+cover: "../images/cover/cover2.jpeg"
 links:
   - "https://www.ipcc.ch"
   - "https://www.globalcarbonproject.org"
