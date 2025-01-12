@@ -1,6 +1,6 @@
 # Indice
 
-- [Introduzione](./pages/introduzione.md)
+- [Introduzione](./README.md)
 - [Step 1: Riduci il consumo di plastica monouso 🛍️](./pages/steps/step1.md)
 - [Step 2: Risparmia energia 💡](./pages/steps/step2.md)
 - [Step 3: Riduci il consumo di acqua 🚿](./pages/steps/step3.md)
