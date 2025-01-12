@@ -31,7 +31,7 @@ Inoltre, risparmiare energia non solo aiuta l'ambiente, ma può anche ridurre no
 
 ![Risparmio di energia](../images/step2/risparmioEnergia.webp)
 
-Secondo l’Agenzia Internazionale dell’Energia, l’efficienza energetica potrebbe ridurre le emissioni globali di CO2 fino al **40% entro il 2040**, un obiettivo che è alla portata di tutti noi se adottiamo scelte consapevoli nella vita quotidiana. [Fonte 2]
+Secondo l’Agenzia Internazionale dell’Energia, l’efficienza energetica potrebbe ridurre le emissioni globali di CO2 fino al **40% entro il 2040**, un obiettivo che è alla portata di tutti noi se adottiamo scelte consapevoli nella vita quotidiana.
 
 **Ricorda**: Risparmiare energia non solo aiuta a proteggere il nostro pianeta, ma ti permette anche di risparmiare denaro. Ogni piccola azione che compiamo oggi può avere un impatto duraturo sul futuro del nostro ambiente. 🌍 Non aspettare: inizia da subito a fare scelte più sostenibili e vedrai i benefici, sia per te che per il pianeta.
 
