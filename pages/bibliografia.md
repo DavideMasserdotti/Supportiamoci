@@ -1,3 +1,43 @@
+---
+title: "Bibliografia"
+author: "Davide"
+date: "2025-01-12"
+description: "Una lista completa delle fonti utilizzate per creare il manuale sul cambiamento climatico e le azioni sostenibili."
+tags:
+  - bibliografia
+  - fonti
+  - cambiamento climatico
+  - sostenibilità
+  - ambiente
+links:
+  - "https://www.ipcc.ch"
+  - "https://www.globalcarbonproject.org"
+  - "https://sealevel.nasa.gov"
+  - "https://ipbes.net"
+  - "https://ellenmacarthurfoundation.org"
+  - "https://www.greenpeace.org"
+  - "https://www.iea.org"
+  - "https://www.earthday.org"
+  - "https://www.fao.org"
+  - "https://www.globalforestwatch.org"
+  - "https://www.wwf.org"
+  - "https://www.unep.org"
+  - "https://www.wri.org"
+  - "https://www.drawdown.org"
+  - "https://energysavingtrust.org.uk"
+  - "https://theoceancleanup.com"
+  - "https://iclei.org"
+  - "https://www.carbonbrief.org"
+  - "https://www.eea.europa.eu"
+  - "https://www.nature.org"
+  - "https://www.unesco.org"
+  - "https://climateactiontracker.org"
+  - "https://www.cdp.net"
+  - "https://www.globalcarbonatlas.org"
+  - "https://www.smithsonianmag.com"
+  - "https://www.nationalgeographic.com"
+  - "https://www.ipcc.ch/sr15/"
+---
 # Bibliografia 📚🌍
 
 Ecco tutte le fonti utilizzate per creare questo manuale, così puoi approfondire e verificare ogni informazione:
@@ -70,3 +110,15 @@ Ecco tutte le fonti utilizzate per creare questo manuale, così puoi approfondir
 
 23. **CDP (Carbon Disclosure Project)**: "Trasparenza aziendale sulle emissioni di carbonio"  
     - [https://www.cdp.net](https://www.cdp.net)
+
+24. **Global Carbon Atlas**: "Carbono e cambiamento climatico globale"  
+    - [https://www.globalcarbonatlas.org](https://www.globalcarbonatlas.org)
+
+25. **Smithsonian Magazine**: "Inquinamento e biodiversità in pericolo"  
+    - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
+
+26. **National Geographic**: "Le cause e gli effetti del cambiamento climatico"  
+    - [https://www.nationalgeographic.com](https://www.nationalgeographic.com)
+
+27. **IPCC, 2018**: "Special Report: Global Warming of 1.5°C"  
+    - [https://www.ipcc.ch/sr15/](https://www.ipcc.ch/sr15/)

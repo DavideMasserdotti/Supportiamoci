@@ -1,3 +1,16 @@
+---
+title: "Riduci, riutilizza e ricicla"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come applicare la regola delle 3R per ridurre i rifiuti, risparmiare risorse e vivere in modo più sostenibile."
+tags:
+  - sostenibilità
+  - riciclo
+  - riutilizzo
+  - riduzione rifiuti
+image: "../images/step6/riduciRiutilizzaRicicla.webp"
+link: "https://www.epa.gov/"
+---
 # 6. Riduci, riutilizza e ricicla ♻️
 
 La regola delle 3R è una delle pratiche più efficaci per ridurre il nostro impatto ambientale. Si tratta di tre azioni fondamentali: **ridurre**, **riutilizzare** e **riciclare**. Applicando queste semplici abitudini nella vita quotidiana, possiamo contribuire a ridurre il consumo di risorse, abbattere la produzione di rifiuti e favorire la sostenibilità del nostro pianeta. 🌍
@@ -23,4 +36,4 @@ Ricordati che ogni piccola azione conta: più riutilizzi e ricicli, meno rifiuti
 
 Fare attenzione al modo in cui gestiamo i nostri rifiuti è fondamentale per costruire un mondo più sostenibile. Ogni volta che riduci, riutilizzi e ricicli, contribuisci a proteggere il nostro pianeta per le future generazioni!
 
-[Maggiori informazioni](https://www.epa.gov/).
+[Scopri altro](https://www.epa.gov/).

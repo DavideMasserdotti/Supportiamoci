@@ -1,3 +1,16 @@
+---
+title: "Educa gli altri sull'importanza dell'ecologia"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come educare gli altri sull'importanza dell'ecologia può stimolare un cambiamento positivo e promuovere un futuro più sostenibile."
+tags:
+  - educazione ecologica
+  - sensibilizzazione ambientale
+  - cambiamento positivo
+  - comportamento eco-friendly
+image: "../images/step9/educarsi.webp"
+link: "https://www.earthday.org/"
+---
 # 9. Educa gli altri sull'importanza dell'ecologia 📚
 
 Il cambiamento positivo inizia spesso con l'educazione. Condividere ciò che impari sull'ambiente può ispirare azioni concrete e creare una rete di persone più consapevoli e responsabili. Ogni informazione trasmessa può avere un grande impatto, stimolando una maggiore attenzione verso l'ambiente. 🌱
@@ -22,4 +35,4 @@ Il cambiamento positivo inizia spesso con l'educazione. Condividere ciò che imp
 
 Educare gli altri sull'ecologia è fondamentale per creare una società più informata e ispirare un cambiamento positivo che si propaga attraverso le comunità. Ogni volta che influenzi qualcuno a fare scelte ecologiche, stai contribuendo a costruire un futuro migliore. Insieme possiamo fare la differenza! 🌍
 
-[Approfondisci qui](https://www.earthday.org/)
+[Scopri altro](https://www.earthday.org/)

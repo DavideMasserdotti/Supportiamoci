@@ -1,3 +1,16 @@
+---
+title: "Acquista responsabilmente"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come fare scelte di acquisto consapevoli per ridurre il nostro impatto sull'ambiente e promuovere un consumo responsabile."
+tags:
+  - acquisto responsabile
+  - sostenibilità
+  - consumo consapevole
+  - riduzione impatto ambientale
+image: "../images/step7/acquistaResponsabilmente.webp"
+link: "https://www.sustainablebrands.com/"
+---
 # 7. Acquista responsabilmente 🛒
 
 L'acquisto responsabile è una delle azioni più potenti che possiamo fare per ridurre il nostro impatto sull'ambiente. Ogni volta che acquistiamo qualcosa, votiamo con il nostro portafoglio. Le nostre scelte di consumo influenzano l'intero ciclo di vita dei prodotti, dalla produzione alla distribuzione, fino allo smaltimento. Acquistare in modo consapevole ci permette di ridurre sprechi, risorse non rinnovabili e inquinamento.
@@ -26,4 +39,4 @@ L'acquisto responsabile è una delle azioni più potenti che possiamo fare per r
 
 Acquistare responsabilmente non significa solo fare scelte che fanno bene all'ambiente, ma anche promuovere una cultura del consumo più consapevole e responsabile. Ogni nostra scelta di acquisto ha un impatto sul mondo che ci circonda. Con piccoli cambiamenti nelle nostre abitudini di consumo, possiamo contribuire a un futuro più sostenibile per tutti. 🌍
 
-[Leggi qui](https://www.sustainablebrands.com/).
+[Scopri altro](https://www.sustainablebrands.com/).

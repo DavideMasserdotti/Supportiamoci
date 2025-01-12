@@ -1,3 +1,16 @@
+---
+title: "Riduci il consumo di plastica monouso"
+author: "Davide"
+date: "2025-01-12"
+description: "Consigli pratici per diminuire l'uso di plastica monouso e contribuire a un pianeta più sostenibile."
+tags:
+  - sostenibilità
+  - plastica
+  - ambiente
+  - guida pratica
+cover: "../images/step1/oggettiSostenibili.webp"
+link: "https://www.greenpeace.org/italy/come-puoi-aiutare/plastica/"
+---
 # 1. Riduci il consumo di plastica monouso 🛍️
 
 La plastica monouso è una delle principali cause di inquinamento globale. Ogni anno, milioni di tonnellate di plastica finiscono negli oceani, minacciando la vita marina e danneggiando gli ecosistemi. 🌊 Questo inquinamento non solo distrugge gli habitat marini, ma contribuisce anche alla formazione di microplastiche che entrano nella catena alimentare. Ridurre il consumo di plastica monouso è un passo essenziale per diminuire il nostro impatto ambientale e preservare il nostro pianeta per le generazioni future.
@@ -23,3 +36,5 @@ Secondo Greenpeace, circa **8 milioni di tonnellate di plastica** vengono rivers
 **Ricorda**: Ogni piccolo gesto conta nel creare un futuro più pulito e sostenibile! Con il tuo impegno, puoi essere parte del cambiamento che il nostro pianeta ha tanto bisogno. 🌱
 
 Inizia oggi stesso a ridurre il consumo di plastica monouso e coinvolgi chi ti sta vicino a fare lo stesso. Più siamo, maggiore sarà l'impatto positivo che riusciremo a creare!
+
+[Scopri altro](https://www.greenpeace.org/italy/come-puoi-aiutare/plastica/)

@@ -1,3 +1,16 @@
+---
+title: "Consuma meno carne e cibi ad alto impatto ambientale"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come ridurre il consumo di carne e scegliere alimenti sostenibili per proteggere l'ambiente e promuovere uno stile di vita più sano."
+tags:
+  - riduzione carne
+  - cibi sostenibili
+  - alimentazione consapevole
+  - impatto ambientale
+image: "../images/step5/cibiSostenibili.webp"
+link: "https://www.wwf.it/campagne/mangiare-sostenibile/"
+---
 # 5. Consuma meno carne e cibi ad alto impatto ambientale 🍽️
 
 La produzione di carne è una delle principali cause di inquinamento ambientale. Essa contribuisce significativamente alle **emissioni di gas serra**, alla **deforestazione**, all'**inquinamento delle acque** e al consumo eccessivo di risorse naturali. L'allevamento di animali per la carne richiede enormi quantità di acqua, terra e mangimi, e il suo impatto sull'ambiente è ben documentato. In particolare, la produzione di carne rossa, come quella di manzo e agnello, ha un'impronta ecologica particolarmente alta. Ridurre il consumo di carne e scegliere alimenti con un impatto inferiore è quindi un passo cruciale per preservare il nostro pianeta, ridurre l'inquinamento e combattere il cambiamento climatico. 🌍
@@ -19,3 +32,5 @@ La produzione di carne è una delle principali cause di inquinamento ambientale.
 Ogni volta che riduci il consumo di carne e scegli cibi a basso impatto, stai contribuendo in modo significativo alla **riduzione delle emissioni di CO2**, alla **protezione degli ecosistemi naturali** e alla promozione di pratiche agricole più sostenibili. 🌱
 
 Ricorda: fare scelte alimentari più consapevoli non solo aiuta l’ambiente, ma ti permette anche di mangiare in modo più sano e sostenibile. Ogni piccolo passo verso una dieta più vegetale fa una grande differenza per il nostro futuro. Non sottovalutare mai il potere di una singola scelta quotidiana. Se tutti facessimo anche solo una piccola parte, l’impatto globale sarebbe immenso. Inizia oggi a fare la tua parte per un futuro più verde e sano! 🌍
+
+[Scopri altro](https://www.wwf.it/campagne/mangiare-sostenibile/)

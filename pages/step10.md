@@ -1,3 +1,16 @@
+---
+title: "Riduci l'uso della tecnologia digitale"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come ridurre l'uso della tecnologia digitale può contribuire a ridurre l'impatto ambientale e migliorare la sostenibilità."
+tags:
+  - tecnologia sostenibile
+  - riduzione delle emissioni
+  - consumo energetico
+  - ecologia digitale
+image: "../images/step10/riduciTecnologia.webp"
+link: "https://www.greenspector.com/"
+---
 # 10. Riduci l'uso della tecnologia digitale 📱
 
 L'uso della tecnologia digitale ha un impatto sull'ambiente che spesso sottovalutiamo. Ogni clic, ogni streaming, ogni e-mail inviata contribuisce al consumo di energia e all'emissione di gas serra, dato che i server e le infrastrutture necessarie per supportare il mondo digitale richiedono risorse significative. Ridurre il nostro uso quotidiano della tecnologia è un passo importante per ridurre il nostro impatto ecologico.
@@ -24,4 +37,4 @@ L'uso della tecnologia digitale ha un impatto sull'ambiente che spesso sottovalu
 
 Ogni piccola azione che facciamo nel mondo digitale può avere un impatto positivo sul nostro pianeta. Ridurre il nostro uso della tecnologia digitale non solo aiuta a ridurre le emissioni di CO2, ma contribuisce anche a un uso più consapevole delle risorse. 🌍
 
-[Leggi qui](https://www.greenspector.com/).
+[Scopri altro](https://www.greenspector.com/).

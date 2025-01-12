@@ -1,3 +1,16 @@
+---
+title: "Riduci il consumo d'acqua"
+author: "Davide"
+date: "2025-01-12"
+description: "Consigli pratici per risparmiare acqua e preservare una risorsa vitale per il nostro pianeta."
+tags:
+  - acqua
+  - sostenibilità
+  - risparmio idrico
+  - ambiente
+image: "../images/step3/riduciAcqua.webp"
+link: "https://www.worldwatercouncil.org/"
+---
 # 3. Riduci il consumo d'acqua 🚿
 
 L'acqua è una risorsa essenziale per la vita, ma anche incredibilmente limitata. Sebbene il nostro pianeta sia ricoperto al 70% di acqua, meno dell'1% è effettivamente disponibile per il consumo umano. Con il cambiamento climatico, l'inquinamento e la crescente domanda, la riduzione del consumo d'acqua è diventata una priorità globale. Ogni goccia risparmiata contribuisce a preservare questa risorsa preziosa e a garantire la sua disponibilità per le generazioni future. 🌍

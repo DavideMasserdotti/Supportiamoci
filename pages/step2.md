@@ -1,3 +1,16 @@
+---
+title: "Risparmia energia"
+author: "Davide"
+date: "2025-01-12"
+description: "Strategie pratiche per risparmiare energia e ridurre l'impatto ambientale."
+tags:
+  - energia
+  - sostenibilità
+  - ambiente
+  - risparmio
+image: "../images/step2/risparmioEnergia.webp"
+link: "https://www.iea.org/topics/energy-efficiency"
+---
 # 2. Risparmia energia 💡
 
 Risparmiare energia è essenziale per ridurre l'impatto ambientale e combattere il cambiamento climatico. Ogni piccola azione quotidiana che intraprendiamo per consumare meno energia contribuisce a un futuro più sostenibile e aiuta a proteggere il nostro pianeta per le generazioni future. 💪
@@ -21,3 +34,5 @@ Inoltre, risparmiare energia non solo aiuta l'ambiente, ma può anche ridurre no
 Secondo l’Agenzia Internazionale dell’Energia, l’efficienza energetica potrebbe ridurre le emissioni globali di CO2 fino al **40% entro il 2040**, un obiettivo che è alla portata di tutti noi se adottiamo scelte consapevoli nella vita quotidiana. [Fonte 2]
 
 **Ricorda**: Risparmiare energia non solo aiuta a proteggere il nostro pianeta, ma ti permette anche di risparmiare denaro. Ogni piccola azione che compiamo oggi può avere un impatto duraturo sul futuro del nostro ambiente. 🌍 Non aspettare: inizia da subito a fare scelte più sostenibili e vedrai i benefici, sia per te che per il pianeta.
+
+[Scopri altro](https://www.iea.org/topics/energy-efficiency)

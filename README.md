@@ -1,3 +1,20 @@
+---
+title: "Introduzione al Cambiamento Climatico"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come il cambiamento climatico sta influenzando il nostro pianeta e cosa possiamo fare per combatterlo con azioni quotidiane."
+tags:
+  - cambiamento climatico
+  - sostenibilità
+  - azioni per l'ambiente
+  - futuro sostenibile
+image: "../images/step1/cambiamentoClimatico.webp"
+links:
+  - "https://www.ipcc.ch"
+  - "https://www.globalcarbonproject.org"
+  - "https://sealevel.nasa.gov"
+  - "https://ipbes.net"
+---
 # Introduzione 🌍🔥  
 
 Il cambiamento climatico è il problema più grande che il nostro pianeta sta affrontando. Negli ultimi anni, le temperature globali sono aumentate, gli ecosistemi sono in pericolo e gli eventi climatici estremi come uragani, incendi e inondazioni sono diventati sempre più frequenti. 😟  

@@ -1,3 +1,16 @@
+---
+title: "Supporta l'energia rinnovabile"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come supportare e adottare l'energia rinnovabile per ridurre l'impatto ambientale e contribuire a un futuro sostenibile."
+tags:
+  - energia rinnovabile
+  - energia solare
+  - energia eolica
+  - sostenibilità
+image: "../images/step12/energiaRinnovabile.webp"
+link: "https://www.irena.org/"
+---
 # Step 12: Supporta l'energia rinnovabile ☀️💨
 
 L'energia rinnovabile è la chiave per un futuro sostenibile. Fonti come il sole, il vento e l'acqua forniscono energia pulita che non esaurisce le risorse del pianeta né contribuisce al cambiamento climatico. Sostenere e adottare l'energia rinnovabile è una delle azioni più importanti per ridurre l'impatto ambientale e promuovere un mondo più verde. 🌍
@@ -21,3 +34,5 @@ Secondo l'Agenzia Internazionale dell'Energia, le energie rinnovabili potrebbero
 ![Energia rinnovabile](../images/step12/energiaRinnovabile.webp)
 
 **Ricorda**: ogni scelta che fai, dai fornitori energetici ai mezzi di trasporto, ha un impatto diretto sul futuro del nostro pianeta. Sostenere l'energia rinnovabile significa investire in un futuro più pulito e sostenibile per tutti. 🌱
+
+[Scopri altro](https://www.irena.org/).

@@ -1,3 +1,16 @@
+---
+title: "Viaggia in modo sostenibile"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come adottare abitudini di viaggio più sostenibili per ridurre l'impatto ambientale e promuovere uno stile di vita consapevole."
+tags:
+  - trasporti sostenibili
+  - riduzione delle emissioni
+  - viaggiare eco-friendly
+  - mobilità sostenibile
+image: "../images/step11/viaggiaSostenibile.webp"
+link: "https://www.transportenvironment.org/what-we-do/sustainable-transport/"
+---
 # 11. Viaggia in modo sostenibile 🌍🚴‍♂️
 
 Il modo in cui ci spostiamo ha un grande impatto sull'ambiente. I trasporti rappresentano una delle principali fonti di emissioni di gas serra a livello globale. Tuttavia, adottare abitudini di viaggio più sostenibili può ridurre significativamente il nostro impatto ambientale, promuovendo al contempo uno stile di vita più consapevole e rispettoso del pianeta. 🌱
@@ -31,3 +44,5 @@ Secondo il World Resources Institute, il settore dei trasporti è responsabile d
 ### Viaggiare meglio, non solo meno 🌟
 
 Viaggiare in modo sostenibile non significa rinunciare alle esperienze, ma piuttosto viverle in modo più consapevole. Ogni scelta che facciamo, dalla modalità di trasporto al tipo di alloggio, può contribuire a un futuro più verde. Muoviti con rispetto per l’ambiente e ispira gli altri a fare lo stesso! 🚆🚴‍♀️
+
+[Scopri altro](https://www.transportenvironment.org/what-we-do/sustainable-transport/)

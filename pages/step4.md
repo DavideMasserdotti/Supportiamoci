@@ -1,3 +1,16 @@
+---
+title: "Acquista di seconda mano"
+author: "Davide"
+date: "2025-01-12"
+description: "Scopri come l'acquisto di oggetti di seconda mano può promuovere un consumo responsabile e ridurre l'impatto ambientale."
+tags:
+  - seconda mano
+  - economia circolare
+  - sostenibilità
+  - consumo responsabile
+image: "../images/step4/acquistiSecondaMano.webp"
+link: "https://www.ellenmacarthurfoundation.org/"
+---
 # 4. Acquista di seconda mano 🛍️♻️
 
 Il mercato dell’usato è un’opportunità eccellente per ridurre l’impatto ambientale e promuovere un consumo più responsabile. Acquistare di seconda mano non solo aiuta a ridurre la produzione di nuovi beni, ma contribuisce anche a prevenire lo spreco e la creazione di rifiuti, dando nuova vita agli oggetti. 🌱
@@ -23,4 +36,6 @@ Ecco come iniziare:
 Secondo la Ellen MacArthur Foundation, un’economia circolare potrebbe ridurre le emissioni globali di CO2 del **39% entro il 2030**. [Fonte 5] Questo significa che se tutti facessimo scelte più consapevoli come acquistare di seconda mano, avremmo un impatto enorme sul nostro ambiente.
 
 Acquistare di seconda mano non è solo un modo per risparmiare, ma anche una scelta etica e responsabile, che aiuta a preservare le risorse naturali e a ridurre la nostra impronta ecologica. Ogni oggetto che scegliamo di riutilizzare contribuisce alla salvaguardia del nostro pianeta! 🌍
+
+[Scopri altro](https://www.ellenmacarthurfoundation.org/).
 

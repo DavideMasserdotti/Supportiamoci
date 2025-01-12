@@ -1,3 +1,14 @@
+---
+title: "Indice"
+author: "Davide"
+date: "2025-01-12"
+description: "Un elenco di tutte le sezioni e i passi inclusi nel manuale per vivere in modo più sostenibile."
+tags:
+  - indice
+  - sostenibilità
+  - cambiamento climatico
+  - guida
+---
 # Indice
 
 - [Introduzione](./README.md)
