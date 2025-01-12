@@ -9,7 +9,7 @@ tags:
   - consumo consapevole
   - riduzione impatto ambientale
 image: "../images/step7/acquistaResponsabilmente.webp"
-link: "https://www.sustainablebrands.com/"
+link: "https://www.vogue.it/news/article/cotone-biologico-sostenibilita"
 ---
 # 7. Acquista responsabilmente 🛒
 
@@ -39,4 +39,4 @@ L'acquisto responsabile è una delle azioni più potenti che possiamo fare per r
 
 Acquistare responsabilmente non significa solo fare scelte che fanno bene all'ambiente, ma anche promuovere una cultura del consumo più consapevole e responsabile. Ogni nostra scelta di acquisto ha un impatto sul mondo che ci circonda. Con piccoli cambiamenti nelle nostre abitudini di consumo, possiamo contribuire a un futuro più sostenibile per tutti. 🌍
 
-[Scopri altro](https://www.sustainablebrands.com/).
+[Scopri altro](https://www.vogue.it/news/article/cotone-biologico-sostenibilita).

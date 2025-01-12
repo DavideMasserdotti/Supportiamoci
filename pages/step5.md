@@ -9,7 +9,7 @@ tags:
   - alimentazione consapevole
   - impatto ambientale
 image: "../images/step5/cibiSostenibili.webp"
-link: "https://www.wwf.it/campagne/mangiare-sostenibile/"
+link: "https://www.slowfood.com"
 ---
 # 5. Consuma meno carne e cibi ad alto impatto ambientale 🍽️
 
@@ -33,4 +33,4 @@ Ogni volta che riduci il consumo di carne e scegli cibi a basso impatto, stai co
 
 Ricorda: fare scelte alimentari più consapevoli non solo aiuta l’ambiente, ma ti permette anche di mangiare in modo più sano e sostenibile. Ogni piccolo passo verso una dieta più vegetale fa una grande differenza per il nostro futuro. Non sottovalutare mai il potere di una singola scelta quotidiana. Se tutti facessimo anche solo una piccola parte, l’impatto globale sarebbe immenso. Inizia oggi a fare la tua parte per un futuro più verde e sano! 🌍
 
-[Scopri altro](https://www.wwf.it/campagne/mangiare-sostenibile/)
+[Scopri altro](https://www.slowfood.com)

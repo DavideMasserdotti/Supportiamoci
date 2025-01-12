@@ -9,7 +9,7 @@ tags:
   - sostenibilità
   - consumo responsabile
 image: "../images/step4/acquistiSecondaMano.webp"
-link: "https://www.ellenmacarthurfoundation.org/"
+link: "https://www.recycling.com"
 ---
 # 4. Acquista di seconda mano 🛍️♻️
 
@@ -37,5 +37,5 @@ Secondo la Ellen MacArthur Foundation, un’economia circolare potrebbe ridurre 
 
 Acquistare di seconda mano non è solo un modo per risparmiare, ma anche una scelta etica e responsabile, che aiuta a preservare le risorse naturali e a ridurre la nostra impronta ecologica. Ogni oggetto che scegliamo di riutilizzare contribuisce alla salvaguardia del nostro pianeta! 🌍
 
-[Scopri altro](https://www.ellenmacarthurfoundation.org/).
+[Scopri altro](https://www.recycling.com).
 

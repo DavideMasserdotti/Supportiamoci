@@ -9,7 +9,7 @@ tags:
   - ambiente
   - risparmio
 image: "../images/step2/risparmioEnergia.webp"
-link: "https://www.iea.org/topics/energy-efficiency"
+link: "https://www.energystar.gov"
 ---
 # 2. Risparmia energia 💡
 
@@ -35,4 +35,4 @@ Secondo l’Agenzia Internazionale dell’Energia, l’efficienza energetica pot
 
 **Ricorda**: Risparmiare energia non solo aiuta a proteggere il nostro pianeta, ma ti permette anche di risparmiare denaro. Ogni piccola azione che compiamo oggi può avere un impatto duraturo sul futuro del nostro ambiente. 🌍 Non aspettare: inizia da subito a fare scelte più sostenibili e vedrai i benefici, sia per te che per il pianeta.
 
-[Scopri altro](https://www.iea.org/topics/energy-efficiency)
+[Scopri altro](https://www.energystar.gov)

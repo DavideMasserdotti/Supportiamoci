@@ -9,7 +9,7 @@ tags:
   - sostenibilità
   - cambiamento climatico
 image: "../images/step8/proteggiLaNatura.webp"
-link: "https://www.treesforthefuture.org/"
+link: "https://www.treedom.net/"
 ---
 # 8. Pianta alberi e proteggi la natura 🌳
 
@@ -33,4 +33,4 @@ Gli alberi sono essenziali per la salute del nostro pianeta. Non solo migliorano
 
 Ogni azione conta, anche la più piccola: piantare alberi, ridurre la deforestazione, e proteggere la natura sono essenziali per un futuro più sostenibile! 🌱 Piantare un albero oggi significa piantare un futuro più verde per le prossime generazioni. Unisciti alla causa: insieme possiamo fare la differenza e contribuire a preservare la bellezza del nostro pianeta per gli anni a venire. 🌳
 
-[Scopri altro](https://www.treesforthefuture.org/).
+[Scopri altro](https://www.treedom.net/).

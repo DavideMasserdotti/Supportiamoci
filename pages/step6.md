@@ -9,7 +9,7 @@ tags:
   - riutilizzo
   - riduzione rifiuti
 image: "../images/step6/riduciRiutilizzaRicicla.webp"
-link: "https://www.epa.gov/"
+link: "https://www.remediasrl.com/blog/le-3-r-della-gestione-sostenibile-dei-rifiuti/"
 ---
 # 6. Riduci, riutilizza e ricicla ♻️
 
@@ -36,4 +36,4 @@ Ricordati che ogni piccola azione conta: più riutilizzi e ricicli, meno rifiuti
 
 Fare attenzione al modo in cui gestiamo i nostri rifiuti è fondamentale per costruire un mondo più sostenibile. Ogni volta che riduci, riutilizzi e ricicli, contribuisci a proteggere il nostro pianeta per le future generazioni!
 
-[Scopri altro](https://www.epa.gov/).
+[Scopri altro](https://www.remediasrl.com/blog/le-3-r-della-gestione-sostenibile-dei-rifiuti/).

@@ -9,7 +9,7 @@ tags:
   - viaggiare eco-friendly
   - mobilità sostenibile
 image: "../images/step11/viaggiaSostenibile.webp"
-link: "https://www.transportenvironment.org/what-we-do/sustainable-transport/"
+link: "https://zeroco2.eco/it/magazine/ambiente/mobilita-sostenibile/"
 ---
 # 11. Viaggia in modo sostenibile 🌍🚴‍♂️
 
@@ -45,4 +45,4 @@ Secondo il World Resources Institute, il settore dei trasporti è responsabile d
 
 Viaggiare in modo sostenibile non significa rinunciare alle esperienze, ma piuttosto viverle in modo più consapevole. Ogni scelta che facciamo, dalla modalità di trasporto al tipo di alloggio, può contribuire a un futuro più verde. Muoviti con rispetto per l’ambiente e ispira gli altri a fare lo stesso! 🚆🚴‍♀️
 
-[Scopri altro](https://www.transportenvironment.org/what-we-do/sustainable-transport/)
+[Scopri altro](https://zeroco2.eco/it/magazine/ambiente/mobilita-sostenibile/)
