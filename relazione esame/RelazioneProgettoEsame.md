@@ -106,8 +106,6 @@ Spiegazione dei modelli adottati:
 
 2. **DALL-E 3**: È un modello di generazione di immagini basato sull’intelligenza artificiale, che utilizza descrizioni testuali per creare immagini di alta qualità. Rispetto ai suoi predecessori, DALL-E 3 offre una maggiore precisione nella rappresentazione visiva e una comprensione più avanzata delle istruzioni fornite, rendendolo uno strumento ideale per progetti digitali in cui è richiesta coerenza grafica e creatività.
 
----
-
 Questo approccio combinato ha permesso di realizzare un prodotto digitale innovativo, integrando contenuti testuali e visivi di alta qualità per offrire agli utenti un’esperienza completa e immersiva.
 
 ### Gestione documentale
