@@ -37,6 +37,7 @@ links:
   - "https://www.smithsonianmag.com"
   - "https://www.nationalgeographic.com"
   - "https://www.ipcc.ch/sr15/"
+  - "https://www.youtube.com/watch?v=G4H1N_yXBiA&ab_channel=NationalGeographic"
 ---
 # Bibliografia 📚🌍
 
@@ -122,3 +123,6 @@ Ecco tutte le fonti utilizzate per creare questo manuale, così puoi approfondir
 
 27. **IPCC, 2018**: "Special Report: Global Warming of 1.5°C"  
     - [https://www.ipcc.ch/sr15/](https://www.ipcc.ch/sr15/)
+
+28. **National Geographic**: "Causes and Effects of Climate Change | National Geographic"
+    - [https://www.youtube.com/watch?v=G4H1N_yXBiA&ab_channel=NationalGeographic](https://www.youtube.com/watch?v=G4H1N_yXBiA&ab_channel=NationalGeographic)

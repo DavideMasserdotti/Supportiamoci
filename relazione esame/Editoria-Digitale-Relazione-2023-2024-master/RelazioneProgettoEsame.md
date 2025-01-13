@@ -35,7 +35,7 @@ Non è necessario attendere azioni da governi o grandi aziende per contribuire a
 
 ### Destinatari
 
-1. **Giulia, 21 anni, studentessa universitaria**
+1. **Giulia, 22 anni, studentessa universitaria**
    - **Background**: Frequenta il terzo anno di Scienze Ambientali. È appassionata di ecologia e partecipa spesso a manifestazioni per il clima.
    - **Obiettivi**: Migliorare il suo stile di vita sostenibile e influenzare positivamente amici e follower sui social.
    - **Bisogni**: Informazioni chiare, pratiche e facilmente condivisibili.
@@ -82,11 +82,23 @@ Proprio per questo motivo, e considerando il target di riferimento, ovvero ragaz
 ## Processo di Produzione
 
 ### Acquisizione dei contenuti
-Le fonti utilizzate nella costruzione del prodotto editoriale sono state selezionate valutando i costi di acquisizione:
+L'acquisizione dei contenuti è avvenuta attraverso un approccio misto. 
 
-1. Fonti libere e disponibili online.
-2. Contenuti generati automaticamente tramite intelligenza artificiale.
-3. Contenuti redatti manualmente per integrare o correggere i testi generati automaticamente.
+La fase iniziale di generazione del testo è stata realizzata tramite intelligenza artificiale utilizzando **ChatGPT basato sul modello GPT-4**. Questo modello di linguaggio avanzato, sviluppato da OpenAI, è stato progettato per comprendere e produrre testo in modo coerente e pertinente. Successivamente, è stata effettuata una fase di revisione manuale del contenuto per garantire una qualità elevata, integrare eventuali informazioni mancanti e verificare l'accuratezza delle fonti utilizzate. Qualora le fonti originali si fossero rivelate insufficienti, ne sono state selezionate ulteriori per completare il processo di acquisizione dei contenuti in maniera rigorosa.
+
+Per quanto riguarda gli elementi visivi, tutte le immagini incluse sono state generate tramite **intelligenza artificiale utilizzando il modello DALL-E 3**, anch’esso sviluppato da OpenAI. Questo modello è stato scelto per la sua capacità di creare immagini realistiche o stilizzate basandosi su descrizioni testuali dettagliate. La progettazione delle immagini ha tenuto conto sia del tipo di prodotto digitale che dello stile grafico di riferimento, assicurando coerenza e attrattiva visiva.
+
+Infine, per arricchire ulteriormente l’esperienza dell’utente, è stato incluso un video introduttivo di YouTube realizzato da **National Geographic**, il quale introduce i temi principali trattati nel webbook. Questo elemento multimediale aggiunge profondità e contesto ai contenuti proposti, migliorando l'interattività del prodotto digitale.
+
+## Spiegazione dei modelli adottati
+
+1. **GPT-4**: Si tratta di un modello di linguaggio di ultima generazione sviluppato da OpenAI, noto per la sua capacità di comprendere il contesto e produrre risposte dettagliate e accurate. È particolarmente adatto per la generazione di testi complessi, supportando attività come la scrittura creativa, la revisione e l’elaborazione di contenuti tecnici.
+
+2. **DALL-E 3**: È un modello di generazione di immagini basato sull’intelligenza artificiale, che utilizza descrizioni testuali per creare immagini di alta qualità. Rispetto ai suoi predecessori, DALL-E 3 offre una maggiore precisione nella rappresentazione visiva e una comprensione più avanzata delle istruzioni fornite, rendendolo uno strumento ideale per progetti digitali in cui è richiesta coerenza grafica e creatività.
+
+---
+
+Questo approccio combinato ha permesso di realizzare un prodotto digitale innovativo, integrando contenuti testuali e visivi di alta qualità per offrire agli utenti un’esperienza completa e immersiva.
 
 ### Gestione documentale
 Il flusso di gestione documentale si compone delle seguenti fasi:
