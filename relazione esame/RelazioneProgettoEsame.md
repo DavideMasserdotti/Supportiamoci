@@ -233,6 +233,10 @@ Se queste tecnologie non fossero adottate, l'ente si troverebbe di fronte a nume
 - Ogni modifica richiederebbe di ricondividere il file aggiornato. In un prodotto digitale che subisce frequenti aggiornamenti, questa modalità sarebbe impraticabile. Al contrario, con il WebBook, il link di accesso rimane invariato, rendendo il processo di aggiornamento semplice ed efficace.
 - Il WebBook utilizza tecnologie web per il funzionamento il che lo rende compatibile con la totalità dei disositivi che utilizzando un browser. Un file pdf non avrebbe le stesse capacità di adattamento a dispositivi eterogenei tra loro.
 
+L'adozione dell'intelligenza artificiale per la creazione di testi e immagini ha rappresentato un'importante innovazione per la gestione dei contenuti e la ricerca delle fonti. Grazie a questa tecnologia, una delle più avanzate degli ultimi anni, è stato possibile creare contenuti all'avanguardia in modo semplice e veloce. 
+
+L'intelligenza artificiale consente infatti di integrare rapidamente molteplici informazioni provenienti da diverse fonti, rendendo il processo di produzione contenutistica più efficiente e versatile. Questo approccio non solo facilita il lavoro, ma garantisce anche un risultato di alta qualità, capace di rispondere alle esigenze di un mondo digitale in continua evoluzione.
+
 ### Limiti emersi
 
 I social richiedono formati audio-visivi per comunicare, rendendo la distribuzione di un prodotto editoriale digitale più complessa. Spesso, molti social non permettono nemmeno di scaricare file all'interno dei post, costringendo l'ente a utilizzare software esterni. 
@@ -246,7 +250,18 @@ Un altro limite di GitBook deriva dal suo principale pregio: la semplicità e la
 Dato che l'ente desidera un contenuto facilmente aggiornabile per includere nuove scoperte o iniziative, si è preferito dare priorità a questa necessità, proponendo comunque un prodotto moderno e al passo coi tempi sia in termini di fruizione che di grafica.
 
 ## Conclusioni
-I risultati ottenuti dimostrano che gli obiettivi definiti sono stati pienamente raggiunti. Il progetto ha mostrato punti di forza, come la facilità di distribuzione e la qualità dei contenuti, e ha messo in luce alcune aree di miglioramento, come l'automazione del flusso.
+
+In conclusione, tutti i requisiti richiesti dall'ente per questo prodotto sono stati raggiunti. Di seguito, vengono analizzati uno per uno:
+
+- **Sensibilizzare un pubblico giovane (18-25 anni)**: l'utilizzo di social network come Instagram per la distribuzione e la pubblicizzazione del prodotto permette di raggiungere efficacemente questa fascia di età. Grazie alla familiarità dei giovani con questi strumenti, il messaggio può essere trasmesso in modo diretto e coinvolgente.
+
+- **Temi del cambiamento climatico e dell'impatto ambientale delle loro scelte quotidiane**: grazie all'utilizzo dell'intelligenza artificiale, è stato possibile recuperare informazioni scientifiche chiare e accurate, permettendo all'utente di verificare anche le fonti proposte dall'AI. La creazione di una guida in 12 step per vivere in maniera più sostenibile fornisce esempi pratici di comportamenti eco-friendly, utili per sensibilizzare e educare il pubblico.
+
+- **Design accattivante e possibilmente innovativo**: GitBook permette di creare un prodotto con un design moderno, consentendo di raggiungere uno stile grafico personalizzato attraverso la modifica di colori, font e layout. Tuttavia, alcune configurazioni avanzate sono limitate dalla piattaforma.
+
+- **Distribuzione attraverso piattaforme social**: l'utilizzo di un link per distribuire il prodotto lo rende compatibile con tutti i social network, consentendo all'ente di diffondere il prodotto una sola volta. Inoltre, sarà possibile aggiornare il contenuto senza dover ridistribuire il prodotto, garantendo che le modifiche siano visibili immediatamente.
+
+- **Prodotto facilmente aggiornabile per includere nuove scoperte o iniziative**: l'integrazione di GitBook con un repository GitHub offre al personale gli strumenti necessari per semplificare la gestione del versioning, modificare rapidamente e aggiungere nuovi contenuti. Questo permette di mantenere il prodotto sempre al passo con i tempi e facilmente adattabile a nuove informazioni o cambiamenti.
 
 ## Bibliografia e sitografia
 Di seguito tutte le fonti usate nella progettazione del prodotto editoriale digitale:
