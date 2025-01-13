@@ -13,9 +13,13 @@ csl: IEEE.csl
 
 ![Logo UNIMI](./logo/minerva.jpg){width=100px height=100px}
 
-# Supportiamo! Un WebBook per promuovere la sostenibilità ambientale
+# Supportiamoci! Un WebBook per promuovere la sostenibilità ambientale
+
+[Link al WebBook](https://davide-2.gitbook.io/supportiamoci)
 
 [Link alla repository del progetto](https://github.com/DavideMasserdotti/Supportiamoci)
+
+[Link alla pagina instragram per pubblicizzare il WebBook](https://www.instagram.com/supportiamoci2030/)
 
 ## Introduzione
 Questo progetto nasce dalla volontà di un ente no profit di creare un prodotto editoriale di facile lettura, pensato per un pubblico giovane (18-25 anni) e distribuito tramite social network. L'obiettivo è affrontare temi legati alla sostenibilità ambientale e al cambiamento climatico, offrendo al lettore 12 step pratici per migliorare le proprie abitudini quotidiane.
@@ -34,6 +38,8 @@ Il cambiamento climatico rappresenta una delle sfide più grandi per il nostro p
 Non è necessario attendere azioni da governi o grandi aziende per contribuire al cambiamento. Anche il lettore, ogni giorno, può fare la differenza. Il WebBook propone una guida pratica e accessibile, composta da 12 step, per aiutare i lettori a vivere in modo più sostenibile.
 
 ### Destinatari
+
+## Personas
 
 1. **Giulia, 22 anni, studentessa universitaria**
    - **Background**: Frequenta il terzo anno di Scienze Ambientali. È appassionata di ecologia e partecipa spesso a manifestazioni per il clima.
@@ -58,6 +64,12 @@ Non è necessario attendere azioni da governi o grandi aziende per contribuire a
    - **Obiettivi**: Scoprire modi semplici per contribuire alla sostenibilità senza cambiare radicalmente il proprio stile di vita.
    - **Bisogni**: Contenuti divertenti e immediati.
    - **Scenario d'uso**: Clicca su un link al WebBook condiviso da un amico su Discord. Applica uno degli step suggeriti e condivide il link con la sua community.
+
+5. **Elena, 24 anni, giovane insegnante**
+   - **Background**: Ha recentemente iniziato a insegnare scienze in una scuola superiore. È appassionata di educazione ambientale e cerca risorse per coinvolgere studenti adolescenti.
+   - **Obiettivi**: Integrare attività educative sui temi ambientali nel suo programma scolastico e trovare idee semplici per ispirare i suoi studenti.
+   - **Bisogni**: Materiale educativo pratico e adattabile alle esigenze di giovani tra i 14 e i 18 anni.
+   - **Scenario d'uso**: Scopre il WebBook durante una ricerca online e lo utilizza per organizzare una lezione sulla sostenibilità. Condivide il link con gli studenti e incoraggia la discussione sui temi trattati.
 
 ### Modello di fruizione
 L'ente richiede un prodotto editoriale digitale distribuito tramite social. Poiché i social network favoriscono contenuti immediati come foto e video, è stato scelto di creare un WebBook, un prodotto digitale consultabile tramite browser e facilmente condivisibile attraverso un link. 
@@ -114,25 +126,93 @@ Il flusso di gestione documentale si compone delle seguenti fasi:
 Le fasi di revisione, controllo e approvazione sono integrate per garantire qualità e coerenza.
 
 ```mermaid
-graph LR
-A[Inizio] --> B[Produzione contenuti]
-B --> C[Revisione]
-C --> D[Pubblicazione]
+graph TD
+    A[Inizio] --> B[Ideazione]
+    B --> C[Acquisizione dei contenuti]
+    D{Contenuti validi?}
+
+    D -->|Sì| E[Salvataggio .md nella directory locale, successivamente Commit e Push su GitHub]
+    D -->|No| C
+
+    E --> G[Revisione e Redazione]
+    
+    H{Redazione completata?}
+    H -->|Sì| I[Sono state apportate modifiche?]
+     I --> |Sì| M[Salvataggio .md e Push su GitHub] --> J
+     I --> |No| J
+    H -->|No| G
+    
+    J[Progettazione grafica su GitBook]
+       
+    K[Produzione su GitBook e generazione WebBook accessibile tramite link]
+    K --> L[Distribuzione sui Social Network tramite il link]
+    M[Salvataggio .md nella directory locale, successivamente Commit e Push su GitHub]
+
+    %% Sottofasi di "Acquisizione dei contenuti"
+    subgraph Acquisizione automatica
+        direction TB
+        C1[Generazione testi con GPT-4]
+        C2[Generazione immagini con DALL-E 3]
+        C3[Controllo dei contenuti generati]
+    end
+    subgraph Acquisizione manuale
+        direction TB
+        F1[Stesura e ricerca manuale dei contenuti]
+        F2[Controllo dei contenuti trovati manualmente]
+    end
+    C --> C1
+    C1 --> C2
+    C2 --> C3
+    C3 --> D 
+
+    C --> F1
+    F1 --> F2
+    F2 --> D
+
+    %% Sottofasi di "Revisione e Redazione"
+    subgraph Revisione e Redazione
+        direction TB
+        G1[Revisione dei testi]
+        G2[Correzione degli errori]
+        G3[Integrazione nuove informazioni]
+        G4[Inserimento metadati nel file .md]
+    end
+    G --> G1
+    G1 --> G2
+    G2 --> G3
+    G3 --> G4
+    G4 --> H 
+    
+    %% Sottofasi di "Progettazione grafica su GitBook"
+    subgraph Progettazione grafica
+        direction TB
+        J1[Ricerca stile congruo agli argomenti trattati]
+        J2[Definizione layout e design su GitBook]
+    end
+    J --> J1
+    J1 --> J2
+    J2 --> K
 ```
 
 ### Tecnologie adottate
 
-Le tecnologie utilizzate sono state scelte per garantire l'efficacia delle diverse fasi del progetto e includono:
+Le tecnologie utilizzate sono state selezionate per garantire l'efficacia e la qualità delle diverse fasi del progetto, offrendo strumenti adeguati sia per la creazione dei contenuti che per la loro gestione e distribuzione. Ecco una panoramica delle tecnologie principali e del loro contributo:
 
-| Tecnologia | Contributo principale |
-|------------|------------------------|
-| Markdown   | Strutturazione testi   |
-| GitBook    | Generazione WebBook    |
-| GPT-4      | Creazione contenuti    |
-| DALL-E 3   | Creazione immagini     |
+| Tecnologia  | Contributo principale |
+|-------------|------------------------|
+| **Markdown** | **Strutturazione dei testi.** Markdown è stato scelto per la sua semplicità e potenza, permettendo di strutturare i contenuti in modo leggibile e facilmente convertibile in altri formati. La sua portabilità su diversi sistemi e piattaforme lo rende ideale per progetti collaborativi e multipiattaforma. |
+| **YAML**    | **Gestione dei metadati.** YAML è stato utilizzato per definire i metadati all'interno dei file Markdown, fornendo informazioni strutturate come il titolo del documento, l'autore, la data di creazione e altre proprietà utili. Questo approccio ha facilitato l'organizzazione dei contenuti, garantendo coerenza tra i diversi file. |
+| **GitHub**  | **Gestione del repository e del versioning.** GitHub è stato utilizzato come piattaforma per il controllo della versione del progetto e per facilitare la collaborazione tra i membri del team. Grazie alle sue funzionalità avanzate, come i pull request e la gestione delle issue, è stato possibile garantire un workflow efficiente e ben organizzato. |
+| **GitBook** | **Generazione del WebBook.** GitBook è uno strumento potente e intuitivo per creare libri digitali. Collegando il repository Markdown di GitHub al progetto su GitBook, è stato possibile automatizzare la generazione e l'aggiornamento dei contenuti, assicurando una pubblicazione fluida e professionale. |
+| **GPT-4**   | **Creazione dei contenuti.** Il modello di intelligenza artificiale GPT-4 di OpenAI è stato impiegato per generare testi di alta qualità, coerenti e pertinenti. La sua capacità di comprendere il contesto e produrre risposte dettagliate è stata fondamentale nella fase di scrittura e revisione. |
+| **DALL-E 3** | **Creazione delle immagini.** DALL-E 3, modello di generazione visiva di OpenAI, è stato utilizzato per creare immagini personalizzate e in linea con lo stile grafico richiesto. Grazie alla sua capacità di tradurre descrizioni testuali in immagini di alta qualità, ha contribuito a rendere il prodotto finale più accattivante e visivamente coerente. |
+| **YouTube** | **Integrazione video.** La piattaforma è stata utilizzata per includere un video introduttivo realizzato da National Geographic, aggiungendo un elemento multimediale di alta qualità e contestuale ai temi trattati nel webbook. |
+| **Instagram** | **Promozione del WebBook.** È stato creato un profilo Instagram ad hoc per promuovere il WebBook. Tramite post accattivanti e storie mirate, è possibile raggiungere un pubblico più ampio, incentivando la condivisione e l'engagement. |
+
+L'integrazione di queste tecnologie ha consentito di gestire in maniera ottimale tutte le fasi del progetto, dalla creazione dei contenuti testuali e visivi alla loro distribuzione. YAML si è rivelato particolarmente utile per gestire in modo strutturato le informazioni dei file Markdown, migliorando l'efficienza nella gestione dei contenuti. Questo approccio combinato ha garantito un elevato livello di qualità e un workflow fluido, valorizzando ogni fase del processo di produzione e offrendo agli utenti un prodotto digitale ben progettato e ricco di contenuti.
 
 ### Esecuzione del flusso
-Tutti i materiali, script e configurazioni necessari per riprodurre il flusso di produzione documentale sono disponibili nel repository GitHub associato al progetto. Sono stati creati prototipi per ogni tipologia di contenuto e formato previsto.
+Tutti i materiali, script e configurazioni necessari per riprodurre il flusso di produzione documentale sono disponibili nel repository GitHub associato al progetto disponibile a questo [link](https://github.com/DavideMasserdotti/Supportiamoci).
 
 ## Valutazione dei risultati raggiunti
 
