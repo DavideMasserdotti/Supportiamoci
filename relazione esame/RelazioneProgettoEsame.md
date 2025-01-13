@@ -100,7 +100,7 @@ Per quanto riguarda gli elementi visivi, tutte le immagini incluse sono state ge
 
 Infine, per arricchire ulteriormente l’esperienza dell’utente, è stato incluso un video introduttivo di YouTube realizzato da **National Geographic**, il quale introduce i temi principali trattati nel webbook. Questo elemento multimediale aggiunge profondità e contesto ai contenuti proposti, migliorando l'interattività del prodotto digitale.
 
-## Spiegazione dei modelli adottati
+Spiegazione dei modelli adottati:
 
 1. **GPT-4**: Si tratta di un modello di linguaggio di ultima generazione sviluppato da OpenAI, noto per la sua capacità di comprendere il contesto e produrre risposte dettagliate e accurate. È particolarmente adatto per la generazione di testi complessi, supportando attività come la scrittura creativa, la revisione e l’elaborazione di contenuti tecnici.
 
