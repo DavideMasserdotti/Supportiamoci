@@ -223,7 +223,7 @@ Il flusso proposto ha permesso di:
 
 ### Confronto con lo stato dell'arte
 
-Le tecnologie proposte mirano a risolvere i problemi dell'ente, che necessita di un prodotto facile da aggiornare aggiungendo nuovi contenuti. Grazie alla capacità di **GitBook** di integrarsi con un repository GitHub, è possibile sfruttare numerosi vantaggi, tra cui la gestione avanzata del versioning e il supporto per il lavoro collaborativo. La comunità dell'ente può quindi disporre di un sistema avanzato per collaborare a un progetto in continua evoluzione, identificando e risolvendo eventuali problematiche in modo tempestivo.
+Le tecnologie proposte mirano a risolvere i problemi dell'ente, che necessita di un prodotto facile da aggiornare aggiungendo nuovi contenuti. Grazie alla capacità di **GitBook** di integrarsi con un repository GitHub, è possibile sfruttare numerosi vantaggi, tra cui la gestione avanzata del versioning e il supporto per il lavoro collaborativo. Il personale dell'ente può quindi disporre di un sistema avanzato per collaborare a un progetto in continua evoluzione, identificando e risolvendo eventuali problematiche in modo tempestivo.
 
 L'uso di **WebBook** consente inoltre di avere un prodotto sempre accessibile, eliminando la necessità di ridistribuirlo. Quando vengono apportate modifiche, è sufficiente effettuare un commit e un push sul repository GitHub per aggiornare il WebBook: in pochi secondi, le modifiche saranno disponibili online.
 
@@ -231,14 +231,19 @@ Se queste tecnologie non fossero adottate, l'ente si troverebbe di fronte a nume
 
 - Sarebbe comunque necessario utilizzare un sistema come GitHub per consentire il lavoro collaborativo; in alternativa, la produzione documentale risulterebbe altamente disorganizzata.
 - Ogni modifica richiederebbe di ricondividere il file aggiornato. In un prodotto digitale che subisce frequenti aggiornamenti, questa modalità sarebbe impraticabile. Al contrario, con il WebBook, il link di accesso rimane invariato, rendendo il processo di aggiornamento semplice ed efficace.
-
+- Il WebBook utilizza tecnologie web per il funzionamento il che lo rende compatibile con la totalità dei disositivi che utilizzando un browser. Un file pdf non avrebbe le stesse capacità di adattamento a dispositivi eterogenei tra loro.
 
 ### Limiti emersi
-Tra i limiti principali:
 
-- Impossibilità di accedere ad alcune tecnologie avanzate.
-- Automazione non completa di alcuni passaggi del flusso.
-- Limitazioni nell'integrazione di alcune fonti.
+I social richiedono formati audio-visivi per comunicare, rendendo la distribuzione di un prodotto editoriale digitale più complessa. Spesso, molti social non permettono nemmeno di scaricare file all'interno dei post, costringendo l'ente a utilizzare software esterni. 
+
+La scelta di adottare un **WebBook** mira proprio a risolvere questi limiti imposti dal contesto di riferimento. Tuttavia, è importante notare che l'utilizzo di **GitBook** non restituisce un prodotto perfetto. 
+
+Senza una connessione di rete, infatti, sarebbe impossibile accedere al prodotto. Tuttavia, considerando che i social stessi richiedono una connettività costante, questo limite risulta trascurabile. 
+
+Un altro limite di GitBook deriva dal suo principale pregio: la semplicità e la velocità d'uso. Ad esempio, la possibilità di creare grafiche personalizzate è piuttosto limitata. È possibile scegliere font, colori e layout, ma tecnologie più avanzate permetterebbero di ottenere un prodotto più distinguibile, sacrificando però la semplicità d'uso. 
+
+Dato che l'ente desidera un contenuto facilmente aggiornabile per includere nuove scoperte o iniziative, si è preferito dare priorità a questa necessità, proponendo comunque un prodotto moderno e al passo coi tempi sia in termini di fruizione che di grafica.
 
 ## Conclusioni
 I risultati ottenuti dimostrano che gli obiettivi definiti sono stati pienamente raggiunti. Il progetto ha mostrato punti di forza, come la facilità di distribuzione e la qualità dei contenuti, e ha messo in luce alcune aree di miglioramento, come l'automazione del flusso.
