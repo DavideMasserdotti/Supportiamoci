@@ -111,15 +111,15 @@ Questo approccio combinato ha permesso di realizzare un prodotto digitale innova
 ### Gestione documentale
 Il flusso di gestione documentale si compone delle seguenti fasi:
 
-1. Raccolta e produzione dei contenuti.
-2. Valutazione dei diritti.
-3. Trasformazione dei formati.
-4. Strutturazione dei contenuti.
-5. Applicazione dello stile grafico.
-6. Generazione dei metadati.
-7. Distribuzione dei contenuti.
-
-Le fasi di revisione, controllo e approvazione sono integrate per garantire qualità e coerenza.
+1. Ideazione.
+2. Acquisizione dei contenuti, sia tramite intelligenza artificiale sia manualmente.
+3. Revisione dei contenuti.
+4. Creazione file markdown con relativi metadati YAML.
+5. Salvataggio su GitHub dei contenuti.
+6. Collegamento repository GitHub con GitBook.
+7. Applicazione dello stile grafico tramite la dashboard di GitBook.
+8. Creazione WebBook con relativo link per essere distribuito.
+9. Distribuzione dei contenuti sui social networks tramite il link.
 
 ```mermaid
 graph TD
