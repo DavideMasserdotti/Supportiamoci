@@ -38,9 +38,7 @@ Il cambiamento climatico rappresenta una delle sfide più grandi per il nostro p
 Non è necessario attendere azioni da governi o grandi aziende per contribuire al cambiamento. Anche il lettore, ogni giorno, può fare la differenza. Il WebBook propone una guida pratica e accessibile, composta da 12 step, per aiutare i lettori a vivere in modo più sostenibile.
 
 ### Destinatari
-
-## Personas
-
+I seguenti destinatari sono stati creati adottando la tecnica delle personas:
 1. **Giulia, 22 anni, studentessa universitaria**
    - **Background**: Frequenta il terzo anno di Scienze Ambientali. È appassionata di ecologia e partecipa spesso a manifestazioni per il clima.
    - **Obiettivi**: Migliorare il suo stile di vita sostenibile e influenzare positivamente amici e follower sui social.
