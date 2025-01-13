@@ -222,7 +222,16 @@ Il flusso proposto ha permesso di:
 5. Aprire nuovi canali di distribuzione.
 
 ### Confronto con lo stato dell'arte
-Il confronto tra una versione "AS IS" (senza innovazioni) e una "TO BE" (con le innovazioni proposte) evidenzia miglioramenti significativi in termini di efficienza e qualità.
+
+Le tecnologie proposte mirano a risolvere i problemi dell'ente, che necessita di un prodotto facile da aggiornare aggiungendo nuovi contenuti. Grazie alla capacità di **GitBook** di integrarsi con un repository GitHub, è possibile sfruttare numerosi vantaggi, tra cui la gestione avanzata del versioning e il supporto per il lavoro collaborativo. La comunità dell'ente può quindi disporre di un sistema avanzato per collaborare a un progetto in continua evoluzione, identificando e risolvendo eventuali problematiche in modo tempestivo.
+
+L'uso di **WebBook** consente inoltre di avere un prodotto sempre accessibile, eliminando la necessità di ridistribuirlo. Quando vengono apportate modifiche, è sufficiente effettuare un commit e un push sul repository GitHub per aggiornare il WebBook: in pochi secondi, le modifiche saranno disponibili online.
+
+Se queste tecnologie non fossero adottate, l'ente si troverebbe di fronte a numerose problematiche. Ad esempio, se il prodotto finale fosse un file **PDF**:
+
+- Sarebbe comunque necessario utilizzare un sistema come GitHub per consentire il lavoro collaborativo; in alternativa, la produzione documentale risulterebbe altamente disorganizzata.
+- Ogni modifica richiederebbe di ricondividere il file aggiornato. In un prodotto digitale che subisce frequenti aggiornamenti, questa modalità sarebbe impraticabile. Al contrario, con il WebBook, il link di accesso rimane invariato, rendendo il processo di aggiornamento semplice ed efficace.
+
 
 ### Limiti emersi
 Tra i limiti principali:
