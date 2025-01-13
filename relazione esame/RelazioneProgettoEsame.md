@@ -39,6 +39,7 @@ Non è necessario attendere azioni da governi o grandi aziende per contribuire a
 
 ### Destinatari
 I seguenti destinatari sono stati creati adottando la tecnica delle personas:
+
 1. **Giulia, 22 anni, studentessa universitaria**
    - **Background**: Frequenta il terzo anno di Scienze Ambientali. È appassionata di ecologia e partecipa spesso a manifestazioni per il clima.
    - **Obiettivi**: Migliorare il suo stile di vita sostenibile e influenzare positivamente amici e follower sui social.
