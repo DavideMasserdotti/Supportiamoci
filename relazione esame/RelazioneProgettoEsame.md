@@ -90,6 +90,7 @@ In questo settore non esistono classi di documento standard de iure, ma de facto
 Creare prodotti innovativi è essenziale per distinguersi dalla massa, ma nel caso dei social network, la velocità di fruizione è fondamentale. Sarebbe sconsigliato utilizzare tecnologie che richiedano applicazioni di terze parti per accedere ai contenuti o che non siano completamente compatibili con i dispositivi mobili. Il lettore di riferimento, in questo caso, è fugace: è necessario un prodotto che possa essere facilmente consumato tramite le tecnologie che il pubblico è abituato a usare nella vita quotidiana.
 
 Proprio per questo motivo, e considerando il target di riferimento, ovvero ragazzi dai 18 ai 25 anni, il prodotto sarà informale. La stesura del contenuto si adatterà alle caratteristiche di questo pubblico, risultando giovane ma comunque professionale e utile.
+
 ## Processo di Produzione
 
 ### Acquisizione dei contenuti
@@ -214,13 +215,20 @@ Tutti i materiali, script e configurazioni necessari per riprodurre il flusso di
 ## Valutazione dei risultati raggiunti
 
 ### Valutazione del flusso di produzione
-Il flusso proposto ha permesso di:
 
-1. Ridurre i tempi di gestione documentale.
-2. Minimizzare gli errori.
-3. Migliorare la qualità complessiva dei documenti.
-4. Favorire l'accettazione della tecnologia da parte degli utenti.
-5. Aprire nuovi canali di distribuzione.
+Il flusso proposto ha permesso di ottenere i seguenti risultati:
+
+1. **Riduzione dei tempi di gestione documentale**: L'utilizzo delle tecnologie proposte consente di gestire il prodotto in tempi molto più brevi. L'adozione di tecnologie comuni, come i file markdown e sistemi di gestione come GitHub, semplifica notevolmente numerose fasi del processo di gestione.
+
+2. **Minimizzazione degli errori**: L'intelligenza artificiale è stata utilizzata per garantire che il prodotto fosse corretto sia nella forma che nella fluidità del testo. Inoltre, per quanto riguarda il contenuto, l'AI ha permesso di raccogliere informazioni da molteplici fonti, dando un'ampia visione delle tematiche trattate. Prima della pubblicazione, tuttavia, è stato svolto un controllo manuale delle fonti per garantirne l'affidabilità.
+
+3. **Miglioramento della qualità complessiva dei documenti**: Modelli avanzati come GPT-4 e DALL-E 3 hanno facilitato la creazione di documenti professionali, perfetti per la distribuzione di prodotti editoriali digitali. Questo ha contribuito a migliorare la qualità e la coerenza dei contenuti.
+
+4. **Favorire l'accettazione della tecnologia da parte degli utenti**: L'utilizzo di tecnologie consolidate nel mercato odierno ha sicuramente facilitato l'accettazione del prodotto. Il prodotto è facile da fruire, non richiede software o hardware specifici e segue le convenzioni digitali familiari ai giovani di oggi.
+
+5. **Raggiungimento di nuovi canali di distribuzione**: L'adozione di un semplice link per la distribuzione ha reso il prodotto facilmente condivisibile ovunque, aprendo la strada a numerosi canali di distribuzione, non solo sui social. È sufficiente avere una connessione a Internet e un browser per accedere al prodotto. Il web, infatti, rimane ad oggi la piattaforma più accessibile e diffusa nel campo dell'editoria digitale. Il prodotto sviluppato consente all'ente di raggiungere il suo obiettivo principale: sensibilizzare il maggior numero possibile di persone.
+
+6. **Soddisfacimento di nuovi scenari d'uso**: In futuro, l'ente potrà sfruttare le tecnologie proposte per proporre altri prodotti editoriali digitali. L'utilizzo di GitBook consente di creare facilmente e velocemente nuovi contenuti, integrandoli con immagini e video. Le tecnologie adottate non sono limitate a questo specifico caso d'uso, ma permettono di avere un potente sistema di produzione editoriale digitale, adattabile a qualsiasi tipo di contenuto.
 
 ### Confronto con lo stato dell'arte
 
